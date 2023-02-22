@@ -1,10 +1,2 @@
-  - name: Push generated webpage to another repository
-        uses: nkoppel/push-files-to-another-repository@1.1.0
-        env:
-          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
-        with:
-          source-files: 'dist/'
-          destination-username: 'herbertnikolajewskidci'
-          destination-repository: 'kursUebersichtWebDev.github.io'
-          destination-directory: ''
-          commit-email: 'herbert.nikolajewski@digitalcareerinstitute.org'
+- name: Copy to Another Repository
+  uses: sator-imaging/Copy-to-Another-Repository@v1.0.4
