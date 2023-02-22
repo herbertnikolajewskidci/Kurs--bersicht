@@ -1,22 +1,10 @@
-name: Push File
-
-on: push
-
-jobs:
-  copy-file:
-    runs-on: ubuntu-latest
-    steps:
-    - name: Checkout
-      uses: actions/checkout@v2
-
-    - name: Pushes test file
-      uses: dmnemec/copy_file_to_another_repo_action@main
-      env:
-        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
-      with:
-        source_file: 'dist/'
-        destination_repo: 'herbertnikolajewskidci/kursUebersichtWebDev'
-        destination_folder: ''
-        user_email: 'herbert.nikolajewski@digitalcareerinstitute.org'
-        user_name: 'herbertnikolajewskidci'
-        commit_message: 'Deploy'
+  - name: Push generated webpage to another repository
+        uses: nkoppel/push-files-to-another-repository@1.1.0
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          source-files: 'dist/'
+          destination-username: 'herbertnikolajewskidci'
+          destination-repository: 'kursUebersichtWebDev.github.io'
+          destination-directory: ''
+          commit-email: 'herbert.nikolajewski@digitalcareerinstitute.org'
