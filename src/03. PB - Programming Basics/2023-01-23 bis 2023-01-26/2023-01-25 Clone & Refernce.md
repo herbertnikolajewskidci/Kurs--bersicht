@@ -2,12 +2,12 @@
 
 ## Vorschau auf die/den Woche/Tag:
 
-[[PB - Curriculum DE#Clones vs. References ✔️]]
+[[Übersicht - PB#Clones vs. References ✔️]]
 
 ## Wiederholung Vortag  - 📖
 
-- [[PB - Curriculum DE#Objekt Scope ✔️]]
-- [[PB - Curriculum DE#Conversion and iterations ✔️]]
+- [[Übersicht - PB#Objekt Scope ✔️]]
+- [[Übersicht - PB#Conversion and iterations ✔️]]
 ---
 
 ## Pause 10:30 Uhr - ⏯️
@@ -18,7 +18,7 @@
 
 ### Curriculum 📝
 
-![[PB - Curriculum DE#Clones vs. References ✔️]]
+![[Übersicht - PB#Clones vs. References ✔️]]
 
 ### Live Coding -  (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 

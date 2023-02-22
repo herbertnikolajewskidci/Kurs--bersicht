@@ -2,7 +2,7 @@
 
 ## Vorschau auf die/den Woche/Tag:
 
-[[PB - Curriculum DE#Mittwoch ⬅️👀]]
+[[Übersicht - PB#Mittwoch ⬅️👀]]
 
 ## Wiederholung Vortag  - 📖
 
@@ -54,7 +54,7 @@
 
 ### Curriculum 📝
 
-![[PB - Curriculum DE#Mittwoch ⬅️👀]]
+![[Übersicht - PB#Mittwoch ⬅️👀]]
 
 
 ### Live Coding -  (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧

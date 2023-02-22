@@ -2,12 +2,12 @@
 
 ## Vorschau auf die/den Woche/Tag:
 
-[[PB - Curriculum DE#Objekt Scope ✔️]]
+[[Übersicht - PB#Objekt Scope ✔️]]
 
 ## Wiederholung Vortag  - 📖
 
-[[PB - Curriculum DE#Einleitung ✔️]]
-[[PB - Curriculum DE#Objekte: Speichern von mehreren Variablen in einem "namspace" ✔️]]
+[[Übersicht - PB#Einleitung ✔️]]
+[[Übersicht - PB#Objekte: Speichern von mehreren Variablen in einem "namspace" ✔️]]
 
 ---
 
@@ -18,8 +18,8 @@
 ## Hauptthema - 💻
 
 ### Curriculum 📝
-![[PB - Curriculum DE#Objekt Scope ✔️]]
-![[PB - Curriculum DE#Conversion and iterations ✔️]]
+![[Übersicht - PB#Objekt Scope ✔️]]
+![[Übersicht - PB#Conversion and iterations ✔️]]
 
 
 ### Live Coding -  (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧

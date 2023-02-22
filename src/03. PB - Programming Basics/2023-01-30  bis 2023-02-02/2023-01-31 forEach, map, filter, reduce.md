@@ -2,11 +2,11 @@
 
 ## Vorschau auf die/den Woche/Tag:
 
-[[PB - Curriculum DE#Advanced Array methods ⬅️👀]]
+[[Übersicht - PB#Advanced Array methods ⬅️👀]]
 
 ## Wiederholung Vortag  - 📖
 
-[[PB - Curriculum DE#Nesting arrays and objects ✔️]]
+[[Übersicht - PB#Nesting arrays and objects ✔️]]
 
 ---
 
@@ -18,7 +18,7 @@
 
 ### Curriculum 📝
 
-![[PB - Curriculum DE#Advanced Array methods ⬅️👀]]
+![[Übersicht - PB#Advanced Array methods ⬅️👀]]
 
 
 ### Live Coding -  (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧

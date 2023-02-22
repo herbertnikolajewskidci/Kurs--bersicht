@@ -10,7 +10,7 @@
 
 ### Curriculum 📝
 
-![[PB - Curriculum DE#Logisches Denken III ⬅️👀]]
+![[Übersicht - PB#Logisches Denken III ⬅️👀]]
 
 
 ### Live Coding -  (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧

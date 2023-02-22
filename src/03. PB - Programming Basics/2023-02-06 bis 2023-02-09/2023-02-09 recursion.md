@@ -2,11 +2,11 @@
 
 ## Vorschau auf die/den Woche/Tag:
 
-[[PB - Curriculum DE#Rekursive Funktionen ⬅️👀]]
+[[Übersicht - PB#Rekursive Funktionen ⬅️👀]]
 
 ## Wiederholung Vortag  - 📖
 
-[[PB - Curriculum DE#Closure ✔️]]
+[[Übersicht - PB#Closure ✔️]]
 
 ---
 
@@ -18,7 +18,7 @@
 
 ### Curriculum 📝
 
-![[PB - Curriculum DE#Rekursive Funktionen ⬅️👀]]
+![[Übersicht - PB#Rekursive Funktionen ⬅️👀]]
 
 
 ### Live Coding -  (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧

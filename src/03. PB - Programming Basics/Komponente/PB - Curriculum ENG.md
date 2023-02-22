@@ -1,4 +1,4 @@
-[[PB - Curriculum DE]]
+[[Übersicht - PB]]
 ## Language
 
 ### Introduction ✔️

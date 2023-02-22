@@ -2,7 +2,7 @@
 
 ## Vorschau auf die/den Woche/Tag:
 
-[[PB - Curriculum DE#Dienstag]]
+[[Übersicht - PB#Dienstag]]
 
 ---
 
@@ -14,7 +14,7 @@
 
 ### Curriculum 📝
 
-![[PB - Curriculum DE#Dienstag]]
+![[Übersicht - PB#Dienstag]]
 
 
 ### Live Coding -  (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧

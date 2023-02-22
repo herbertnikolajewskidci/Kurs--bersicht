@@ -2,11 +2,11 @@
 
 ## Vorschau auf die/den Woche/Tag:
 
-[[PB - Curriculum DE#Destructuring ✔️]]
+[[Übersicht - PB#Destructuring ✔️]]
 
 ## Wiederholung Vortag  - 📖
 
-[[PB - Curriculum DE#Clones vs. References ✔️]]
+[[Übersicht - PB#Clones vs. References ✔️]]
 
 ---
 
@@ -18,7 +18,7 @@
 
 ### Curriculum 📝
 
-![[PB - Curriculum DE#Destructuring ✔️]]
+![[Übersicht - PB#Destructuring ✔️]]
 
 ### Live Coding -  (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 

@@ -2,7 +2,7 @@
 
 ## Vorschau auf die/den Woche/Tag:
 
-[[PB - Curriculum DE#Data Structur]]
+[[Übersicht - PB#Data Structur]]
 
 ## Wiederholung Vortag
 
@@ -12,8 +12,8 @@
 
 ## Hauptthema
 
-![[PB - Curriculum DE#Einleitung ✔️]]
-![[PB - Curriculum DE#Objekte: Speichern von mehreren Variablen in einem "namspace" ✔️]]
+![[Übersicht - PB#Einleitung ✔️]]
+![[Übersicht - PB#Objekte: Speichern von mehreren Variablen in einem "namspace" ✔️]]
 
 
 ## Live Coding
