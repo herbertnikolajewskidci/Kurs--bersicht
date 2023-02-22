@@ -2,18 +2,18 @@
 
 > Duration: **36 days** or **9 weeks**
 
-- [ ] [DOM](#dom)
+- [ ] [DOM](#DOM)
 	- [ ] [[#Introduction: Javascript in the browser]] 
 	- [ ] [[#Adding javascript to HTML]]
-	- [ ] [[#The `window` object]]
-	- [ ] [[#Querying: Getting elements from `document`]]
+	- [ ] [[#The 'window' object]]
+	- [ ] [[#Querying: Getting elements from 'document' ]]
 	- [ ] [[#Manipulating: Changing the DOM tree]]
 	- [ ] [[#Traversing: Jumping from one element to its relative]]
 	- [ ] [[#Events]]
 	- [ ] [[#Listening]]
 	- [ ] [[#The Event Object]]
-	- [ ] [[#Propagation, Delegation: `<ul>`, `<li>` examples]] 
-- [ ] [Modules](#modules)
+	- [ ] [[#Propagation, Delegation:]] 
+- [ ] [Modules](#Modules)
 	- [ ] [[#Introduction Modules]]
 	- [ ] [[#Module Basics]]
 	- [ ] [[#Imports and Exports]]
@@ -35,14 +35,14 @@
 - [ ] [[#SPA - Assessment I]]
 - [ ] [[#SPA - Exam I]]
 ---
-- [ ] [Boilerplate](#boilerplate)
+- [ ] [Boilerplate](#Boilerplate)
 	- [ ] [[#Introduction SPA]]
 	- [ ] [[#Framework]]
 	- [ ] [[#Quickstart with Create React App]]
 	- [ ] [[#Component Anatomy: Dissecting `App.js`]]
 	- [ ] [[#Debugging React with "React Developer Tools"]]
 	- [ ] [[#Templating with JSX: Slightly different html]]
-- [ ] [Component](#component)
+- [ ] [Component](#Component)
 	- [ ] [[#Introduction Component]]
 	- [ ] [[#Nesting Components]]
 	- [ ] [[#Interaction]]
@@ -55,26 +55,26 @@
 		- [ ] [[#Basic Use Case: Retrieving data on load]]
 		- [ ] [[#Lifecycle Pitfalls:]]
 	- [ ] [[#Additional hooks - Unique IDs with `useId`]]
-- [ ] [Router](#router)
+- [ ] [Router](#Router)
 	- [ ] [[#Introduction Router]]
 	- [ ] [[#3rd party component libraries]]
 	- [ ] [[#Route Components: Setting up react-router-dom]]
 	- [ ] [[#Route Matching Components: Our first routes]]
 	- [ ] [[#Building Navigation]]
 	- [ ] [[#Route Parameters]]
-- [ ] [Store](#store)
+- [ ] [Store](#Store)
 	- [ ] [[#Basic State Management Concepts]]
 	- [ ] [[#Context API]]
 	- [ ] [[#Advanced Implementation]]
-- [ ] [Hooks](#hooks)
+- [ ] [Hooks](#Hooks)
 	- [ ] [[#Advanced hooks]]
-- [ ] [Deployment](#deployment)
+- [ ] [Deployment](#Deployment)
 	- [ ] [[#Deployment of React Apps]]
 ---
 - [ ] [[#SPA - Assessment II]]
 - [ ] [[#SPA - Exam II]]
 ---
-- [ ] [Workshops](#workshops)
+- [ ] [Workshops](#Workshops)
 	- [ ] [[#Redux]]
 	- [ ] [[#Gatsby]]
 	- [ ] [[#Next.js]]
@@ -92,7 +92,7 @@
 - [ ] Externes JS mit `<script src="...">`
 
 [⬆️](#Single-Page-Application)
-### The `window` object
+### The 'window' object
 - [ ] Host-Objekte vs. native Objekte: Kurzer Vergleich mit `window`
 - [ ] `window` als globaler Bereich: Variablen auf dem `window`-Objekt sehen
 - [ ] Benutzereingaben und Meldungen an das Fenster: `window.prompt()` und `window.alert()`
@@ -100,7 +100,7 @@
 - [ ] HTML DOM Dokumentation: MDN
 
 [⬆️](#Single-Page-Application)
-### Querying: Getting elements from `document` 
+### Querying: Getting elements from 'document' 
 - [ ] Auswählen von Elementen auf die alte Art mit `document.getElementById(<id string>)`
 - [ ] Auswählen per CSS-Abfrage: `document.querySelector(<selector string>)`
 - [ ] Mehr als ein Element abrufen: `document.querySelectorAll(<selector string>)`
@@ -151,7 +151,8 @@
   `target.elements[<id>]`, `target.elements[<name>]`, `Element.value`
 
 [⬆️](#Single-Page-Application)
-### Propagation, Delegation: `<ul>`, `<li>` examples
+### Propagation, Delegation:
+#### `<ul>`, `<li>` examples
 - [ ] Konzept der Ereignisblasenbildung:  "Ereignisse sprudeln vom innersten zum äußersten Element"
 - [ ] Häufige Probleme mit Bubbling: `Event.stopPropagation()` als Lösung
 - [ ] Unterschiedliche Ziele: `Event.target` vs. `Event.currentTarget`
