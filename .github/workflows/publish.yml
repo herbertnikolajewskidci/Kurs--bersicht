@@ -1,2 +1,0 @@
-- name: Copy to Another Repository
-  uses: sator-imaging/Copy-to-Another-Repository@v1.0.4
