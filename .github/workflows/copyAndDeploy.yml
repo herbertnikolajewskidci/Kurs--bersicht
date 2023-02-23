@@ -20,7 +20,7 @@ jobs:
       with:
         source_folder: 'test_files'
         destination_repo: 'herbertnikolajewskidci/kursUebersichtWebDev.github.io'
-        destination_folder: '/root'
+        destination_folder: 'test-dir'
         user_email: 'herbert.nikolajewski@digitalcareerinstitute.org'
         user_name: 'herbertnikolajewskidci'
         commit_msg: '[GHA] Update the test files.'
