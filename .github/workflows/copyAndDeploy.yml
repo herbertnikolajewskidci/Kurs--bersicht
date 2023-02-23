@@ -19,7 +19,7 @@ jobs:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
       with:
         source_folder: 'dist/'
-        destination_repo: 'herbertnikolajewskidci/kursUebersichtWebDev.github.io'
+        destination_repo: 'herbertnikolajewskidci/kurs-uebersicht'
         destination_folder: 'docs/'
         user_email: 'herbert.nikolajewski@digitalcareerinstitute.org'
         user_name: 'herbertnikolajewskidci'
