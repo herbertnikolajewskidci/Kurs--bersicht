@@ -7,9 +7,14 @@
 3.  window als globaler Bereich:  
    Das 'window'-Objekt ist der globale Bereich in JavaScript und alle Variablen, die im globalen Kontext definiert werden, werden automatisch als Eigenschaften des 'window'-Objekts hinzugefügt. Zum Beispiel:
 ```js
-let myVar = 'Hello World';
+var myVar = "Hello World";
 console.log(window.myVar); // gibt "Hello World" aus
 ```
+
+**Christians Recherche hat ergeben:**
+
+-   Mit **var** deklarierte variablen werden im window objekt gespeichert - aber so wie das aussieht aus kompatibilitätsgründen, weil das früher so gemacht wurde
+-   Mit **let/const** geht das nicht mehr, sondern da muss man dann die eigenschaft direkt zum objekt hinzugefügt werden (window.myVar = "Blah")
 4.  Benutzereingaben und Meldungen an das Fenster: window.prompt() und window.alert() 
    Die Methode **'window.prompt()'** wird verwendet, um dem Benutzer eine Eingabeaufforderung anzuzeigen, bei der er Text in ein Dialogfeld eingeben kann. Zum Beispiel:
 ```js

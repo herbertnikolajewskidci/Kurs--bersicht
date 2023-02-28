@@ -202,3 +202,62 @@
 
 ### Verbesserungsvorschläge
 - Überleitung zu deinem Calculator
+
+---
+
+## Osmel: Calculator - Dauer: 3:33
+### Gut
+- Präsentation der Funktion zuerst
+
+### Verbesserungsvorschläge
+- Kamera an
+- Mehr Selbstvertrauen
+- Unterschied heraus
+
+---
+
+## Boris: Space Invaders - Dauer: ca. 15 Minuten
+### Gut
+- Schöne Übersicht am Anfang
+- Auf Zeit geachtet
+- Präsentation der App am Anfang
+- Gute Abstraktions des Codes in Paint
+- Gute Überleitung auf den behandelten Stoff
+
+### Verbesserungsvorschläge
+- Projekt war zu Groß und zu Weit
+- Kamera an
+
+---
+
+## Yousseff: StandLandFluss - Dauer: ca. 9 Min
+### Gut
+- Ehrlichkeit
+- Hoher Datenaufwand
+- Originelle Idee
+
+### Verbesserungsvorschläge
+- Präsentation der App zuerst
+- Kamera auf einmal aus
+
+---
+
+## Ali: Bulls and Cows - Dauer 3:56 min
+### Gut
+- Hat alle Projekte umgesetzt
+- Präsentation der App zuerst
+
+### Verbesserungsvorschläge
+- in die Kamera schauen
+
+
+---
+
+## Hamode: Cassierer Problem - Dauer: ca. 5 Min
+### Gut
+- Schöne sicher Präsentation
+- Schöne Kommentare vom Code
+- dein Ansatz in Cent statt in Euro zu rechnen ist schlau
+
+### Verbesserungsvorschläge
+- Keine Hand vor dem Mund
