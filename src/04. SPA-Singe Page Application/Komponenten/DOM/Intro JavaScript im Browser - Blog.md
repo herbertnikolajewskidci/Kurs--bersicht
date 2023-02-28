@@ -1,6 +1,6 @@
 # Javascript im Browser: Eine Einführung
 
-Javascript ist eine Skriptsprache, die im Browser ausgeführt wird und es Webentwicklern ermöglicht, interaktive Funktionen auf ihren Webseiten einzubauen. Die Sprache wurde 1995 von Netscape entwickelt und hat seitdem erheblich zur Entwicklung des Internets beigetragen. In diesem Artikel werfen wir einen Blick auf die Entstehung von Javascript, den historischen Kontext, in dem die Sprache entstand, sowie die Bedeutung der JS-Engines.
+Javascript ist eine Skriptsprache, die im Browser ausgeführt wird und es Webentwicklern ermöglicht, interaktive Funktionen auf ihren Webseiten einzubauen. Die Sprache wurde 1995 von Netscape entwickelt und hat seitdem erheblich zur Entwicklung des Internets beigetragen. Wir werden heute einen Blick auf die Entstehung von Javascript, den historischen Kontext, in dem die Sprache entstand, sowie die Bedeutung der JS-Engines.
 
 ## Historischer Kontext für JS: Browser-Kriege, Actionscript, jQuery, ES6
 
