@@ -22,7 +22,7 @@
 
 ### [Live Coding -  💻](https://github.com/FBW-WD-22-D07/Single-Page-Application-SPA/tree/main)
 
--   [[Intro JavaScript im Browser]]
+-   [[Intro JavaScript im Browser - Blog]], [[Intro JavaScript im Browser - Stichpunkte]], [[Intro JavaScript im Browser.pdf]]
 -   [[script-tag.js]]
 -   [[Window-Object.js]]
 
