@@ -1,47 +1,6 @@
 ---
-
----
- 
-## Querying: Getting elements from 'document'
----
-
-1.  Auswählen von Elementen auf die alte Art mit `document.getElementById(<id string>)`:
-```js
-// Beispiel: Ein Element mit der ID 'myElement' auswählen
-const myElement = document.getElementById('myElement');
-```
-
----
-
-2.  Auswählen per CSS-Abfrage: `document.querySelector(<selector string>)`:
-```js
-// Beispiel: Das erste Element mit der Klasse 'myClass' auswählen
-const myElement = document.querySelector('.myClass');
-```
-
----
-
-3.  Mehr als ein Element abrufen: `document.querySelectorAll(<selector string>)`:
-```js
-// Beispiel: Alle Elemente mit der Klasse 'myClass' auswählen
-const myElements = document.querySelectorAll('.myClass');
-// Auf jedes Element in der NodeList zugreifen
-myElements.forEach(function(element) {
-  console.log(element);
-});
-```
-
----
-
-4.  Element-Stil: CSS-Stile mit der Eigenschaft HTMLElement.style ändern:
-```js
-// Beispiel: Die Hintergrundfarbe eines Elements ändern
-const myElement = document.getElementById('myElement');
-
-myElement.style.backgroundColor = 'red';
-
-```
-
+title: "dom-manipulation"
+theme: "white"
 ---
 
 ## Manipulating: Changing the DOM tree
@@ -49,7 +8,7 @@ myElement.style.backgroundColor = 'red';
 ---
 
 
-1. Manipulation von Klassen: Element.classList-Methoden
+Manipulation von Klassen: Element.classList-Methoden
 ```js
 // Get the element
 const element = document.getElementById("my-element");
@@ -66,7 +25,7 @@ element.classList.toggle("active");
 
 ---
 
-2. Ändern des Textes innerhalb eines Elements: Die Eigenschaft HTMLElement.innerText
+Ändern des Textes innerhalb eines Elements: Die Eigenschaft HTMLElement.innerText
 ```js
 // Get the element
 const element = document.getElementById("my-element");
@@ -77,7 +36,7 @@ element.innerText = "New text";
 
 ---
 
-3. Ändern des HTML-Inhalts: Die Eigenschaft Element.innerHTML
+Ändern des HTML-Inhalts: Die Eigenschaft Element.innerHTML
 ```js
 // Get the element
 const element = document.getElementById("my-element");
@@ -88,7 +47,7 @@ element.innerHTML = "<h1>New Heading</h1><p>New paragraph</p>";
 
 ---
 
-4. Elemente erstellen: document.createElement(Tagname)
+Elemente erstellen: document.createElement(Tagname)
 ```js
 // Create a new element
 const newElement = document.createElement("div");
@@ -106,7 +65,7 @@ document.body.appendChild(newElement);
 
 ---
 
-5. Hinzufügen von Elementen auf der Seite: Element.append(Element object), siehe MDN-Dokumente für .append()
+Hinzufügen von Elementen auf der Seite: Element.append(Element object), siehe MDN-Dokumente für .append()
 ```js
 // Get the parent element
 const parent = document.getElementById("parent-element");
@@ -126,3 +85,4 @@ parent.append(newElement);
 ```
 
 ---
+
