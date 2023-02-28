@@ -28,7 +28,7 @@
 
 -   [[dom-querying.js]]
 -   [[dom-manipulation.js]]
--   usw.
+-   [[dom-travsering.js]]
 
 ---
 
