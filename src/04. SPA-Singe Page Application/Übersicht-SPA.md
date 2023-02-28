@@ -3,9 +3,9 @@
 > Duration: **36 days** or **9 weeks**
 
 - [ ] [DOM](#DOM)
-	- [ ] [[#Introduction: Javascript in the browser]] 
-	- [ ] [[#Adding javascript to HTML]]
-	- [ ] [[#The 'window' object]]
+	- [x] [[#Introduction: Javascript in the browser]] 
+	- [x] [[#Adding javascript to HTML]]
+	- [x] [[#The 'window' object]]
 	- [ ] [[#Querying: Getting elements from 'document' ]]
 	- [ ] [[#Manipulating: Changing the DOM tree]]
 	- [ ] [[#Traversing: Jumping from one element to its relative]]
@@ -83,21 +83,21 @@
 
 ## DOM
 ### Introduction: Javascript in the browser
-- [ ] Historischer Kontext für JS: Browser-Kriege, Actionscript, jQuery, ES6
-- [ ] Kurze Erwähnung der JS-Engines: V8 (Chrome, Node, Edge) vs. SpiderMonkey (Firefox) 
+- [x] Historischer Kontext für JS: Browser-Kriege, Actionscript, jQuery, ES6
+- [x] Kurze Erwähnung der JS-Engines: V8 (Chrome, Node, Edge) vs. SpiderMonkey (Firefox) 
 
 [⬆️](#Single-Page-Application)
 ### Adding javascript to HTML
-- [ ] Der `<script>`-Tag
-- [ ] Externes JS mit `<script src="...">`
+- [x] Der `<script>`-Tag
+- [x] Externes JS mit `<script src="...">`
 
 [⬆️](#Single-Page-Application)
 ### The 'window' object
-- [ ] Host-Objekte vs. native Objekte: Kurzer Vergleich mit `window`
-- [ ] `window` als globaler Bereich: Variablen auf dem `window`-Objekt sehen
-- [ ] Benutzereingaben und Meldungen an das Fenster: `window.prompt()` und `window.alert()`
-- [ ] Das `document`-Objekt: schneller Überblick
-- [ ] HTML DOM Dokumentation: MDN
+- [x] Host-Objekte vs. native Objekte: Kurzer Vergleich mit `window`
+- [x] `window` als globaler Bereich: Variablen auf dem `window`-Objekt sehen
+- [x] Benutzereingaben und Meldungen an das Fenster: `window.prompt()` und `window.alert()`
+- [x] Das `document`-Objekt: schneller Überblick
+- [x] HTML DOM Dokumentation: MDN
 
 [⬆️](#Single-Page-Application)
 ### Querying: Getting elements from 'document' 
