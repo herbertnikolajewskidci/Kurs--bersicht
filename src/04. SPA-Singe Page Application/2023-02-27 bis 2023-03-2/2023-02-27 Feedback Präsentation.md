@@ -261,3 +261,15 @@
 
 ### Verbesserungsvorschläge
 - Keine Hand vor dem Mund
+
+---
+
+## Lukasz: System-Monitor mit Login - Dauer: ca. 3 min
+### Gut
+- schöner sauberer Code
+- Cooler eigenständige Idee
+
+### Verbesserungsvorschläge
+- Mit mehr Enthusiasmus 
+- Kamera an
+- Wäre schön gewesen, die Sachen, welche besonders waren, von alleine zu erklären

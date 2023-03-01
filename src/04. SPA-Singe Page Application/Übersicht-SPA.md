@@ -6,9 +6,9 @@
 	- [x] [[#Introduction: Javascript in the browser]] 
 	- [x] [[#Adding javascript to HTML]]
 	- [x] [[#The 'window' object]]
-	- [ ] [[#Querying: Getting elements from 'document' ]]
-	- [ ] [[#Manipulating: Changing the DOM tree]]
-	- [ ] [[#Traversing: Jumping from one element to its relative]]
+	- [x] [[#Querying: Getting elements from 'document' ]]
+	- [x] [[#Manipulating: Changing the DOM tree]]
+	- [x] [[#Traversing: Jumping from one element to its relative]]
 	- [ ] [[#Events]]
 	- [ ] [[#Listening]]
 	- [ ] [[#The Event Object]]
@@ -101,28 +101,28 @@
 
 [⬆️](#Single-Page-Application)
 ### Querying: Getting elements from 'document' 
-- [ ] Auswählen von Elementen auf die alte Art mit `document.getElementById(<id string>)`
-- [ ] Auswählen per CSS-Abfrage: `document.querySelector(<selector string>)`
-- [ ] Mehr als ein Element abrufen: `document.querySelectorAll(<selector string>)`
-- [ ] Element-Stil: Css-Stile mit der Eigenschaft `HTMLElement.style` ändern
+- [x] Auswählen von Elementen auf die alte Art mit `document.getElementById(<id string>)`
+- [x] Auswählen per CSS-Abfrage: `document.querySelector(<selector string>)`
+- [x] Mehr als ein Element abrufen: `document.querySelectorAll(<selector string>)`
+- [x] Element-Stil: Css-Stile mit der Eigenschaft `HTMLElement.style` ändern
 
 [⬆️](#Single-Page-Application)
 ### Manipulating: Changing the DOM tree
-- [ ] Manipulation von Klassen: `Element.classList`-Methoden 
-- [ ] Ändern des Textes innerhalb eines Elements: Die Eigenschaft `HTMLElement.innerText`
-- [ ] Ändern des HTML-Inhalts: Die Eigenschaft `Element.innerHTML`
-- [ ] Elemente erstellen: `document.createElement(<Tagname>)`
-- [ ] Hinzufügen von Elementen auf der Seite: `Element.append(<Element object>)`, siehe MDN-Dokumente für .append()
+- [x] Manipulation von Klassen: `Element.classList`-Methoden 
+- [x] Ändern des Textes innerhalb eines Elements: Die Eigenschaft `HTMLElement.innerText`
+- [x] Ändern des HTML-Inhalts: Die Eigenschaft `Element.innerHTML`
+- [x] Elemente erstellen: `document.createElement(<Tagname>)`
+- [x] Hinzufügen von Elementen auf der Seite: `Element.append(<Element object>)`, siehe MDN-Dokumente für .append()
 
 [⬆️](#Single-Page-Application)
 ### Traversing: Jumping from one element to its relative
-- [ ] Node vs. Element: 
+- [x] Node vs. Element: 
   Vergleich von `Node.previousSibling` und `Element.previousElementSibling`
-- [ ] Ermitteln des nächstgelegenen übergeordneten Elements: `Element.closest(<selector string>)`
-- [ ] Testen eines Elements gegen einen Selektor: `Element.matches(<Selektorstring>)`
-- [ ] Alle Kinder eines Elements ermitteln: `ParentNode.children`
-- [ ] Auswahl bestimmter Kinder: `ParentNode.querySelector(<selector string>)`
-- [ ] Suche nach weiteren Traversaltechniken: MDN 
+- [x] Ermitteln des nächstgelegenen übergeordneten Elements: `Element.closest(<selector string>)`
+- [x] Testen eines Elements gegen einen Selektor: `Element.matches(<Selektorstring>)`
+- [x] Alle Kinder eines Elements ermitteln: `ParentNode.children`
+- [x] Auswahl bestimmter Kinder: `ParentNode.querySelector(<selector string>)`
+- [x] Suche nach weiteren Traversaltechniken: MDN 
 
 [⬆️](#Single-Page-Application)
 ### Events
