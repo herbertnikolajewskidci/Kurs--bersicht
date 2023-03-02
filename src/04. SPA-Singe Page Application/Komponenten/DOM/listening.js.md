@@ -20,7 +20,9 @@ Das nächste Beispiel zeigt eine Funktion höherer Ordnung in JavaScript. `greet
 
 ### Abhören von Benutzeraktionen: `EventTarget.addEventListener(<Namensraum>, <Callback>)`
 ```js
-document.getElementById('button').addEventListener('click', function(){
+const button = document.getElementById('button');
+
+button.addEventListener('click', function(){
   alert('Button clicked');
 });
 ```
@@ -33,15 +35,18 @@ Dieses Codebeispiel zeigt, wie man einen Ereignislistener auf ein HTML-Element s
 
 ### Maus-Ereignisse: `Klick`, `Mouseenter`, `Mouseleave`
 ```js
-document.getElementById('button').addEventListener('click', function(){
+const button = document.getElementById('button');
+
+button.addEventListener('click', function(){
   alert('Button clicked');
 });
 
-document.getElementById('element').addEventListener('mouseenter', function(){
+const element = document.getElementById('element');
+element.addEventListener('mouseenter', function(){
   console.log('Mouse entered');
 });
 
-document.getElementById('element').addEventListener('mouseleave', function(){
+element.addEventListener('mouseleave', function(){
   console.log('Mouse left');
 });
 ```
@@ -56,12 +61,15 @@ Diese Codebeispiele zeigen, wie man auf verschiedene Mausereignisse wie Klicks, 
 ### Entfernen von Ereignislistenern: `EventTarget.removeEventListener(<Namensraum>, <Funktionsreferenz>)`
 
 ```js
+
+const button = document.getElementById('button');
+
 function handleClick() {
   alert('Button clicked');
-  document.getElementById('button').removeEventListener('click', handleClick);
+  button.removeEventListener('click', handleClick);
 }
 
-document.getElementById('button').addEventListener('click', handleClick);
+button.addEventListener('click', handleClick);
 ```
 
 ---
@@ -73,6 +81,8 @@ Dieses Codebeispiel zeigt, wie man einen Ereignislistener von einem HTML-Element
 ### Abhören von Browser-Ereignissen: Ereignis `DOMContentLoaded`
 
 ```js
+const button = document.getElementById('button');
+
 document.addEventListener('DOMContentLoaded', function() {
   console.log('DOM fully loaded and parsed');
 });

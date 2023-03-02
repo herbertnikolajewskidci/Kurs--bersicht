@@ -1,7 +1,9 @@
 ### User Events (interaction)
 
 ```js
-document.getElementById('button').addEventListener('click', function(){
+const button = document.getElementById('button');
+
+button.addEventListener('click', () => {
   alert('Button clicked');
 });
 ```
