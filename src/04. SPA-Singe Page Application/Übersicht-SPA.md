@@ -11,8 +11,8 @@
     -   [x] [[#Traversing: Jumping from one element to its relative]]
     -   [x] [[#Events]]
     -   [x] [[#Listening]]
-    -   [ ] [[#The Event Object]]
-    -   [ ] [[#Propagation, Delegation:]]
+    -   [x] [[#The Event Object]]
+    -   [x] [[#Propagation, Delegation:]]
 -   [ ] [Modules](#Modules)
     -   [ ] [[#Introduction Modules]]
     -   [ ] [[#Module Basics]]
@@ -169,10 +169,10 @@
 
 ### The Event Object
 
--   [ ] Tastatur-Ereignisse: `keydown`, `keyup`
--   [ ] Die Eigenschaften des Ereignisobjekts: Ein Konsolenbeispiel
--   [ ] Das Ziel des Ereignisses ermitteln: `Event.target`
--   [ ] Formular-Ereignisse: `submit`, `reset`, `Event.preventDefault()`
+-   [x] Tastatur-Ereignisse: `keydown`, `keyup`
+-   [x] Die Eigenschaften des Ereignisobjekts: Ein Konsolenbeispiel
+-   [x] Das Ziel des Ereignisses ermitteln: `Event.target`
+-   [x] Formular-Ereignisse: `submit`, `reset`, `Event.preventDefault()`
 -   [ ] Abrufen von Formularwerten beim Absenden:
         `target.elements[<id>]`, `target.elements[<name>]`, `Element.value`
 
@@ -182,12 +182,12 @@
 
 #### `<ul>`, `<li>` examples
 
--   [ ] Konzept der Ereignisblasenbildung: "Ereignisse sprudeln vom innersten zum äußersten Element"
--   [ ] Häufige Probleme mit Bubbling: `Event.stopPropagation()` als Lösung
--   [ ] Unterschiedliche Ziele: `Event.target` vs. `Event.currentTarget`
--   [ ] Probleme mit Ereignis-Listenern: Auswirkungen auf die Leistung, Hinzufügen von Ereignissen zu dynamischen Listen
--   [ ] Lösung der Ereignisdelegation: Delegieren von Ereignissen vom Elternteil zum Kind
--   [ ] Umkehrung der Ausbreitung:
+-   [x] Konzept der Ereignisblasenbildung: "Ereignisse sprudeln (bubble) vom innersten zum äußersten Element"
+-   [x] Häufige Probleme mit Bubbling: `Event.stopPropagation()` als Lösung
+-   [x] Unterschiedliche Ziele: `Event.target` vs. `Event.currentTarget`
+-   [x] Probleme mit Ereignis-Listenern: Auswirkungen auf die Leistung, Hinzufügen von Ereignissen zu dynamischen Listen
+-   [x] Lösung der Ereignisdelegation: Delegieren von Ereignissen vom Elternteil zum Kind
+-   [x] Umkehrung der Ausbreitung:
         Die Option `useCapture` in `addEventListener()`,
         Anwendungsfall `DOMContentLoaded`
 
@@ -213,8 +213,8 @@
 ### Imports and Exports
 
 -   [ ] Standard-Exporte vs. benannte Exporte: `export default`, `export {<var1>, <var2> [, ...]}`
--   [ ] Namespacing-Importe: `import <Namensraum> aus <Pfad>`, `import * als <Namensraum> aus <Pfad>`
--   [ ] Destrukturierung von Importen: `import { <var1>, <var2 [, ...]} from `<path>`
+-   [ ] Namespacing-Importe: `import <namespace> aus <path>`, `import * as <namespace> from <path>`
+-   [ ] Destrukturierung von Importen: `import { <var1>, <var2 [, ...]} from <path>`
 
 [⬆️](#Single-Page-Application)
 
