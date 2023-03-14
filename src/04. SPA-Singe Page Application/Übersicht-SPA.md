@@ -14,9 +14,9 @@
     -   [x] [[#The Event Object]]
     -   [x] [[#Propagation, Delegation:]]
 -   [ ] [Modules](#Modules)
-    -   [ ] [[#Introduction Modules]]
-    -   [ ] [[#Module Basics]]
-    -   [ ] [[#Imports and Exports]]
+    -   [x] [[#Introduction Modules]]
+    -   [x] [[#Module Basics]]
+    -   [x] [[#Imports and Exports]]
     -   [ ] [[#Transpiling & Bundling]]
     -   [ ] [[#Npm workflow]]
 -   [ ] [[#Asynchronous Programming]]
@@ -197,31 +197,31 @@
 
 ### Introduction Modules
 
--   [ ] Module für kleinere Dateien
+-   [x] Module für kleinere Dateien
 
 [⬆️](#Single-Page-Application)
 
 ### Module Basics
 
--   [ ] Kurzer Überblick über IIFE und das Modulmuster
--   [ ] Vorteile von Scope Isolation und Encapsulation
--   [ ] Verwendung von Modulen im Browser: `<script type="module" src="...">`
--   [ ] Verbinden von Dateien: Die Schlüsselwörter `import` und `export`
+-   [x] Kurzer Überblick über IIFE und das Modulmuster
+-   [x] Vorteile von Scope Isolation und Encapsulation
+-   [x] Verwendung von Modulen im Browser: `<script type="module" src="...">`
+-   [x] Verbinden von Dateien: Die Schlüsselwörter `import` und `export`
 
 [⬆️](#Single-Page-Application)
 
 ### Imports and Exports
 
--   [ ] Standard-Exporte vs. benannte Exporte: `export default`, `export {<var1>, <var2> [, ...]}`
--   [ ] Namespacing-Importe: `import <namespace> aus <path>`, `import * as <namespace> from <path>`
--   [ ] Destrukturierung von Importen: `import { <var1>, <var2 [, ...]} from <path>`
+-   [x] Standard-Exporte vs. benannte Exporte: `export default`, `export {<var1>, <var2> [, ...]}`
+-   [x] Namespacing-Importe: `import <namespace> aus <path>`, `import * as <namespace> from <path>`
+-   [x] Destrukturierung von Importen: `import { <var1>, <var2 [, ...]} from <path>`
 
 [⬆️](#Single-Page-Application)
 
 ### Transpiling & Bundling
 
 -   [ ] Browser-Kompatibilität und Module: Transpilieren von ES mit Babel
--   [ ] Überblick über Bündelungswerkzeuge: Verpackung unseres verarbeiteten Codes mit Webpack (NUR Einführung, keine Notwendigkeit, Configs zu schreiben)
+-   [ ] Überblick über Bundling Tools: Verpackung unseres verarbeiteten Codes mit Webpack (NUR Einführung, keine Notwendigkeit, Configs zu schreiben)
 
 [⬆️](#Single-Page-Application)
 
@@ -229,7 +229,7 @@
 
 -   [ ] Hinzufügen von Modulen zu unserem Projekt: `npm install <Modulname>`
 -   [ ] Abhängigkeitsliste: `package.json` lesen, `dependencies` vs. `devDependencies`
--   [ ] Module von Drittanbietern verwenden: `import <Namensraum> von <Abhängigkeitsname>`
+-   [ ] Module von Drittanbietern verwenden: `import <namespace> from <dependency-space>`
 
 [⬆️](#Single-Page-Application)
 

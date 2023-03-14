@@ -35,5 +35,6 @@
 
 ### [Übungen](https://classroom.github.com/classrooms/113973596-fbw-wd-22-d07-ubungsaufgaben) - 🏋️‍♂️
 
-- [# 17 | Module Basics](https://github.com/DigitalCareerInstitute/Browser-modules-basics/tree/master)
-- [(Optional) # 18 | Import Export](https://github.com/DigitalCareerInstitute/Browser-modules-imports-exports/tree/master)
+- [# 17 | To Do Liste](https://github.com/DigitalCareerInstitute/Browser-ToDoList/)
+- [# 18 | Module Basics](https://github.com/DigitalCareerInstitute/Browser-modules-basics/tree/master)
+- [(Optional) # 19 | Import Export](https://github.com/DigitalCareerInstitute/Browser-modules-imports-exports/tree/master)
