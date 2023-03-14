@@ -2,7 +2,7 @@
 
 > Duration: **36 days** or **9 weeks**
 
--   [ ] [DOM](#DOM)
+-   [x] [DOM](#DOM)
     -   [x] [[#Introduction: Javascript in the browser]]
     -   [x] [[#Adding javascript to HTML]]
     -   [x] [[#The 'window' object]]

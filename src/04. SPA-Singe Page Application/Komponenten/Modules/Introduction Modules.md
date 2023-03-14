@@ -1,6 +1,17 @@
+---
+title: intro modules
+theme: black
+---
+
 # Introduction Modules
 
-Module sind Dateien, die eine Klasse oder eine Bibliothek von Funktionen für einen bestimmten Zweck enthalten. Module können sich gegenseitig laden und spezielle Direktiven export und import verwenden, um Funktionalität auszutauschen oder Funktionen eines Moduls von einem anderen aus aufzurufe.
+---
+
+**Module** sind **Dateien,** die eine **Klasse** oder eine **Bibliothek von Funktionen** für einen bestimmten Zweck enthalten. Module können sich gegenseitig laden und spezielle Direktiven export und import verwenden, um Funktionalität auszutauschen oder Funktionen eines Moduls von einem anderen aus aufzurufe.
+
+---
+
+## Bisher
 
 ```javascript
 // 📁 sayHi.js
@@ -16,8 +27,12 @@ console.log(sayHi); // function…
 sayHi("John"); // Hello, John!
 ```
 
+---
+
 ## Module für kleinere Dateien
-Module helfen dabei, den Code in kleinere Dateien aufzuteilen, die leichter zu warten und zu testen sind. Jedes Modul hat seinen eigenen Gültigkeitsbereich und vermeidet Namenskonflikte mit anderen Modulen.
+Module helfen dabei, den Code in kleinere Dateien aufzuteilen, die leichter zu warten und zu testen sind. Jedes Modul hat seinen **eigenen Gültigkeitsbereich** und vermeidet **Namenskonflikte** mit anderen Modulen.
+
+---
 
 ```javascript
 // 📁 admin.js
@@ -37,3 +52,5 @@ require("./user.js"); // only run the code
 
 console.log(admin.name); // Pete
 ```
+
+---
